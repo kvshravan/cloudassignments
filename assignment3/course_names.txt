@@ -1,0 +1,82 @@
+CS101	Computer Programming
+CS110	Computer Programming Lab
+EC101	Digital Design
+EC110	Digital Design Lab
+EC102	Electrical Circuit Analysis
+CS103	Data Structures
+CS111	Data Structures Lab
+CS104	Computer Organization
+EC103	Basic Electronic Circuits
+EC111	Basic Electronics Lab
+CS201	Algorithms
+CS210	Algorithm Lab
+CS221	Data Communication
+CS202	IT Workshop I
+CS231	Operating Systems
+CS232	Operating Systems Lab
+CS235	Artificial Intelligence
+CS240	Database Management Systems
+CS241	DBMS Lab
+CS301	Theory of Computation
+CS352	Computer Networks
+CS353	Computer Networks Lab
+CS351	IT Workshop III: Cloud Computing
+CS306	Machine Learning
+CS316	Machine Learning Lab
+CS330	Software Engineering
+CS331	Software Engineering Lab
+CS320	Compilers
+CS321	Compilers Lab
+CS361	Computer Security
+CS300	Project I(Optional)
+CS401	Data Analytics
+CS400	Project II
+CS410	Project III
+CS430	Parallel Programming
+CS440	Image and Video Processing
+CS414	Advanced Computer Architecture
+CS412	Algorithmic Game Theory
+CS415	Ubiquitous Computing
+CS460	Financial Engineering
+CS470	Network Science
+EC201	Analog Circuits
+EC260	Semiconductor Devices
+EC241	Signals and Systems
+EC281	Measurement and Instrumentation
+EC251	Principles of Communication
+EC252	Communications Lab
+EC243	Digital Signal Processing
+EC244	Digital Signal Processing Lab
+EC351	Digital Communication
+EC352	Digital Communication Lab
+EC301	Analog Integrated Circuits
+EC302	Analog Integrated Circuit Lab
+EC370	Electromagnetics
+EC380	Control Systems
+EC353	Information Theory and Coding
+EC361	VLSI Design
+EC362	VLSI Design Lab
+EC371	Microwave Engineering
+EC372	Microwave Engineering Lab
+EC381	Embedded Systems
+EC382	Embedded Systems Lab
+EC300	Project (optional)
+EC456	Communication Network
+EC400	Project I
+EC401	Project II
+EC452	Detection and Estimation Theory
+EC455	Wireless Sensor Networks
+EC461	VLSI Technology
+EC471	Antennas and Wave Propagation
+EC453	Error Control Codes
+EC462	Advanced Semiconductor Devices
+EC454	Communication Systems
+EC480	Digital Control Systems
+EC402	Data Converters
+EC441	Image Processing
+EC482	Systems on Chip with IoT Applications
+EC442	Pattern Recognition and Machine Learning
+EC457	Modern Error Correcting Codes
+EC472	Microwave System Design
+EC481	Advanced Control Systems
+EC451	Mobile Communication
