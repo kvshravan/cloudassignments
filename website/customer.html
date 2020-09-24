@@ -1,0 +1,32 @@
+<html>
+<head>
+    <title>PHP login system</title>
+    // insert style.css file inside index.html
+    <link rel = "stylesheet" type = "text/css" href = "style.css">
+</head>
+<body>
+    <div id = "frm">
+        <h1>Complaint Portal</h1>
+        <form name="f1" action = "customer.php" onsubmit = "return validation()" method = "POST">
+            <p>
+                <label> Enter Complaint: </label>
+                <input type = "text" id ="user" name  = "user" />
+            </p>
+            <p>
+                <input type =  "submit" id = "btn" value = "Submit" />
+            </p>
+        </form>
+    </div>
+    // validation for empty field
+    <script>
+            function validation()
+            {
+                var id=document.f1.user.value;
+                if(id.length=="") {
+                    alert("User Name fields are empty");
+                    return false;
+                }
+            }
+        </script>
+</body>
+</html>
